@@ -1,0 +1,72 @@
+#fondo{
+	background-image: url("http://cdn.wallpapersafari.com/22/68/TjlVOe.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 700px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#titulo1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 30px;
+	color: white;
+}
+#mosaico{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	width: 1200px;
+	height: 400px;
+}
+#imagen{
+	background-color: white;
+	width: 290px;
+	height: 260px;
+	margin: 20px;
+}
+.img1{
+	background-image: url("http://semplice.com.mx/img/servicios/mantenimiento.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.img2{
+	background-image: url("http://images.locanto.com.mx/1296969207/MANTENIMIENTO-Y-REPARACION-DE-EQUIPO-DE-COMPUTO_2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.img3{
+	background-image: url("http://www.multiserviciosa.com/2-thickbox_default/laptop-toshiba-c55-b5214kl-ci54gb500gb.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.img4{
+	background-image: url("http://semplice.com.mx/img/servicios/redes-sociales.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#redes{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	width: 100px;
+	height: 100px;
+}
+#red{
+	background-color: white;
+	width: 100px;
+	height: 100px;
+	border-radius: 100px;
+}
+.r1{
+	background-image: url("https://static1.squarespace.com/static/5660b9cfe4b0ff01bbf538ea/t/594623db17bffc848f86e4f6/1497769073171/facebook-logo.png?format=100w");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
